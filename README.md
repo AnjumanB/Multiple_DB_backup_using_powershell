@@ -3,7 +3,7 @@
 **#Introduction**
 
 This project describes a way to take backup of multiple PostgreSQL DBs using a powershell script.
-pgdumpall command can be used to take backup of all databases in one server of PostgreSQL. But pgdumpall takes backup of databases in a single file hence it is not possible to take backup of any specific or a few databases of one's requirement. So a logic has been implemented to take backup of PostgreSQL databases of one's choice or requirement.Logic has been developed in Powershell. Script has been successfully tested on PostgreSQL EDB advanced server version 13 in Windows environment. Logical aspect for the same has been mentioned in the next section.
+pgdumpall command can be used to take backup of all databases in one server of PostgreSQL. But pgdumpall takes backup of databases in a single file hence it is not possible to take backup of any specific or a few databases of one's requirement. So a logic has been implemented to take backup of PostgreSQL databases of one's choice or requirement.Logic has been developed in Powershell. Script has been successfully tested on PostgreSQL EDB advanced server version 13 on Windows environment. Logical aspect for the same has been mentioned in the next section.
 
 **#Logic**
 
